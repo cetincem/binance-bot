@@ -1,0 +1,12 @@
+{
+  "name": "binance-bot",
+  "version": "1.0.0",
+  "description": "A real-time cryptocurrency trading bot using Binance WebSocket API and Firebase Firestore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
